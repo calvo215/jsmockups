@@ -1,7 +1,7 @@
 # jsmockups
 Application mockups, using JS
 
-Using simple images and the power of canvas in JS, I've created an application to mock simple GUIs. You could import/export your designs to JSON and share them.
+Using simple images and the power of canvas in JS, I've created an application to mock simple GUIs. You could import/export your prototypes to JSON and share them.
 This solution is easy to integrate with your projects, thanks to the use of JSON.
 When you export, your JSON will be printed in the Web browser console. You could set where to export your files. You could export .PNG images also.
 
