@@ -1,0 +1,1724 @@
+{
+	"attrs": {
+		"width": 600,
+		"height": 600
+	},
+	"className": "Stage",
+	"children": [{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 10,
+				"y": 9,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"width": 584,
+					"height": 386,
+					"name": "image",
+					"id": "rct0"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc0"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 584,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc1"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"y": 386,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc2"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 564,
+					"y": 5,
+					"width": 16,
+					"height": 16,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb0"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 532,
+					"y": 5,
+					"width": 16,
+					"height": 16,
+					"name": "upLayerButton",
+					"dragOnTop": false,
+					"id": "ulb0"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 548,
+					"y": 5,
+					"width": 16,
+					"height": 16,
+					"name": "downLayerButton",
+					"dragOnTop": false,
+					"id": "dlb0"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 584,
+					"y": 386,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc3"
+				},
+				"className": "Circle"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 42,
+				"y": 17,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"name": "tittle",
+					"text": "Tittle",
+					"fontSize": 38,
+					"fontFamily": "Calibri",
+					"fill": "#555",
+					"align": "center",
+					"width": 370,
+					"id": "ttl0",
+					"height": "auto"
+				},
+				"className": "Text"
+			},
+			{
+				"attrs": {
+					"x": 358,
+					"y": 5,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb1"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 340,
+					"y": 5,
+					"name": "upLayerButton",
+					"dragOnTop": false,
+					"id": "ulb1"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 349,
+					"y": 5,
+					"name": "downLayerButton",
+					"dragOnTop": false,
+					"id": "dlb1"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": []
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 43,
+				"y": 51,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"name": "tittle",
+					"text": "ttl3",
+					"fontSize": 38,
+					"fontFamily": "Calibri",
+					"fill": "#555",
+					"align": "center",
+					"width": 370,
+					"id": "ttl1",
+					"height": "auto"
+				},
+				"className": "Text"
+			},
+			{
+				"attrs": {
+					"x": 358,
+					"y": 5,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb2"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 340,
+					"y": 5,
+					"name": "upLayerButton",
+					"dragOnTop": false,
+					"id": "ulb2"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 349,
+					"y": 5,
+					"name": "downLayerButton",
+					"dragOnTop": false,
+					"id": "dlb2"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 53,
+				"y": 88,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"name": "subTittle",
+					"text": "Sub Tittle",
+					"fontSize": 20,
+					"fontFamily": "Calibri",
+					"fill": "#555",
+					"align": "center",
+					"width": 370,
+					"id": "sttl0",
+					"height": "auto"
+				},
+				"className": "Text"
+			},
+			{
+				"attrs": {
+					"x": 358,
+					"y": 5,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb3"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 340,
+					"y": 5,
+					"name": "upLayerButton",
+					"dragOnTop": false,
+					"id": "ulb3"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 349,
+					"y": 5,
+					"name": "downLayerButton",
+					"dragOnTop": false,
+					"id": "dlb3"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 369,
+				"y": 131,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"x": -102,
+					"width": 302,
+					"height": 243,
+					"name": "image",
+					"id": "rorct0"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": -102,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc4"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 200,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc5"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 200,
+					"y": 243,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc6"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 180,
+					"y": 5,
+					"width": 16,
+					"height": 16,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb4"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 148,
+					"y": 5,
+					"width": 16,
+					"height": 16,
+					"name": "upLayerButton",
+					"dragOnTop": false,
+					"id": "ulb4"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 164,
+					"y": 5,
+					"width": 16,
+					"height": 16,
+					"name": "downLayerButton",
+					"dragOnTop": false,
+					"id": "dlb4"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": -102,
+					"y": 243,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc7"
+				},
+				"className": "Circle"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 333,
+				"y": 158,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"x": 116,
+					"y": 98,
+					"width": 89,
+					"height": 82,
+					"name": "image",
+					"id": "img0"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 205,
+					"y": 98,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc8"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 205,
+					"y": 180,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc9"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 116,
+					"y": 180,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc10"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 185,
+					"y": 103,
+					"width": 16,
+					"height": 16,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb5"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 153,
+					"y": 103,
+					"width": 16,
+					"height": 16,
+					"name": "upLayerButton",
+					"dragOnTop": false,
+					"id": "ulb5"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 169,
+					"y": 103,
+					"width": 16,
+					"height": 16,
+					"name": "downLayerButton",
+					"dragOnTop": false,
+					"id": "dlb5"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 116,
+					"y": 98,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc11"
+				},
+				"className": "Circle"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": []
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 67,
+				"y": 189,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"y": 84,
+					"width": 138,
+					"height": 96,
+					"name": "image",
+					"id": "img1"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"y": 84,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc12"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 138,
+					"y": 180,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc13"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"y": 180,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc14"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 118,
+					"y": 89,
+					"width": 16,
+					"height": 16,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb6"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 86,
+					"y": 89,
+					"width": 16,
+					"height": 16,
+					"name": "upLayerButton",
+					"dragOnTop": false,
+					"id": "ulb6"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 102,
+					"y": 89,
+					"width": 16,
+					"height": 16,
+					"name": "downLayerButton",
+					"dragOnTop": false,
+					"id": "dlb6"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 138,
+					"y": 84,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc15"
+				},
+				"className": "Circle"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 284,
+				"y": 301,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"name": "image",
+					"id": "txtfld0"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc16"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 160,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc17"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 160,
+					"y": 30,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc18"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"y": 30,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc19"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 140,
+					"y": 5,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb7"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 541,
+				"y": 155,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"width": 20,
+					"height": 200,
+					"name": "image",
+					"id": "vscrl0"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc20"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 20,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc21"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 20,
+					"y": 200,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc22"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"y": 200,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc23"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"y": 5,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb8"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 315,
+				"y": 350,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"width": 200,
+					"height": 20,
+					"name": "image",
+					"id": "hscrl0"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc24"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 200,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc25"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 200,
+					"y": 20,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc26"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"y": 20,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc27"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 180,
+					"y": 5,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb9"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 290,
+				"y": 236,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"width": 20,
+					"height": 20,
+					"name": "image",
+					"id": "rbtn0"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 25,
+					"name": "radioButtonText",
+					"text": "first",
+					"fontSize": 18,
+					"fontFamily": "Calibri",
+					"fill": "#555",
+					"align": "right",
+					"id": "txtrbtn0",
+					"width": "auto",
+					"height": "auto"
+				},
+				"className": "Text"
+			},
+			{
+				"attrs": {
+					"x": 104.2666015625,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb10"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": []
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 297,
+				"y": 260,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"width": 20,
+					"height": 20,
+					"name": "image",
+					"id": "rbtn1"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 25,
+					"name": "radioButtonText",
+					"text": "third",
+					"fontSize": 18,
+					"fontFamily": "Calibri",
+					"fill": "#555",
+					"align": "right",
+					"id": "txtrbtn1",
+					"width": "auto",
+					"height": "auto"
+				},
+				"className": "Text"
+			},
+			{
+				"attrs": {
+					"x": 104.2666015625,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb11"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 288,
+				"y": 189,
+				"draggable": true,
+				"id": "grcbx0"
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"width": 110,
+					"height": 30,
+					"name": "image",
+					"id": "cbx0"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc28"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 110,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc29"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 110,
+					"y": 30,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc30"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"y": 30,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc31"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 98,
+					"y": 5,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb12"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 93,
+				"y": 130,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"width": 20,
+					"height": 20,
+					"name": "image",
+					"id": "chk0"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 25,
+					"name": "checkBoxText",
+					"text": "first",
+					"fontSize": 18,
+					"fontFamily": "Calibri",
+					"fill": "#555",
+					"align": "right",
+					"id": "txtchk0",
+					"width": "auto",
+					"height": "auto"
+				},
+				"className": "Text"
+			},
+			{
+				"attrs": {
+					"x": 104.2666015625,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb13"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 92,
+				"y": 155,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"width": 20,
+					"height": 20,
+					"name": "image",
+					"id": "chk1"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 25,
+					"name": "checkBoxText",
+					"text": "second",
+					"fontSize": 18,
+					"fontFamily": "Calibri",
+					"fill": "#555",
+					"align": "right",
+					"id": "txtchk1",
+					"width": "auto",
+					"height": "auto"
+				},
+				"className": "Text"
+			},
+			{
+				"attrs": {
+					"x": 104.2666015625,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb14"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": []
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 93,
+				"y": 182,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"width": 20,
+					"height": 20,
+					"name": "image",
+					"id": "chk2"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 25,
+					"name": "checkBoxText",
+					"text": "4",
+					"fontSize": 18,
+					"fontFamily": "Calibri",
+					"fill": "#555",
+					"align": "right",
+					"id": "txtchk2",
+					"width": "auto",
+					"height": "auto"
+				},
+				"className": "Text"
+			},
+			{
+				"attrs": {
+					"x": 104.2666015625,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb15"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 56,
+				"y": 39,
+				"draggable": true,
+				"id": "grbtn0"
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"width": 110,
+					"height": 25,
+					"name": "image",
+					"id": "btn0"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc32"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 110,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc33"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 110,
+					"y": 25,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc34"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"y": 25,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc35"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 5,
+					"y": 5,
+					"name": "buttonText",
+					"text": "Text here",
+					"width": 110,
+					"fontSize": 18,
+					"fontFamily": "Calibri",
+					"fill": "#555",
+					"align": "center",
+					"id": "txtbtn0",
+					"height": "auto"
+				},
+				"className": "Text"
+			},
+			{
+				"attrs": {
+					"x": 98,
+					"y": 5,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb16"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 80,
+					"y": 5,
+					"name": "upLayerButton",
+					"dragOnTop": false,
+					"id": "ulb7"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 89,
+					"y": 5,
+					"name": "downLayerButton",
+					"dragOnTop": false,
+					"id": "dlb7"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 61,
+				"y": 81,
+				"draggable": true,
+				"id": "grbtn1"
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"width": 110,
+					"height": 25,
+					"name": "image",
+					"id": "btn1"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc36"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 110,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc37"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 110,
+					"y": 25,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc38"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"y": 25,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc39"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 5,
+					"y": 5,
+					"name": "buttonText",
+					"text": "second",
+					"width": 110,
+					"fontSize": 18,
+					"fontFamily": "Calibri",
+					"fill": "#555",
+					"align": "center",
+					"id": "txtbtn1",
+					"height": "auto"
+				},
+				"className": "Text"
+			},
+			{
+				"attrs": {
+					"x": 98,
+					"y": 5,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb17"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 80,
+					"y": 5,
+					"name": "upLayerButton",
+					"dragOnTop": false,
+					"id": "ulb8"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 89,
+					"y": 5,
+					"name": "downLayerButton",
+					"dragOnTop": false,
+					"id": "dlb8"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": []
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 457,
+				"y": 78,
+				"draggable": true,
+				"id": "grbtn3"
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"width": 110,
+					"height": 25,
+					"name": "image",
+					"id": "btn2"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc40"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 110,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "topRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc41"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 110,
+					"y": 25,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomRight",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc42"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"y": 25,
+					"stroke": "#666",
+					"fill": "#ddd",
+					"radius": 3,
+					"name": "bottomLeft",
+					"draggable": true,
+					"dragOnTop": false,
+					"id": "anc43"
+				},
+				"className": "Circle"
+			},
+			{
+				"attrs": {
+					"x": 5,
+					"y": 5,
+					"name": "buttonText",
+					"text": "fourth",
+					"width": 110,
+					"fontSize": 18,
+					"fontFamily": "Calibri",
+					"fill": "#555",
+					"align": "center",
+					"id": "txtbtn2",
+					"height": "auto"
+				},
+				"className": "Text"
+			},
+			{
+				"attrs": {
+					"x": 98,
+					"y": 5,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb18"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 80,
+					"y": 5,
+					"name": "upLayerButton",
+					"dragOnTop": false,
+					"id": "ulb9"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 89,
+					"y": 5,
+					"name": "downLayerButton",
+					"dragOnTop": false,
+					"id": "dlb9"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 28,
+				"y": 209,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"name": "paragraph",
+					"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"fontFamily": "Calibri",
+					"fill": "#555",
+					"width": 250,
+					"id": "prg0",
+					"height": "auto"
+				},
+				"className": "Text"
+			},
+			{
+				"attrs": {
+					"x": 238,
+					"y": 5,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb19"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 220,
+					"y": 5,
+					"name": "upLayerButton",
+					"dragOnTop": false,
+					"id": "ulb10"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 229,
+					"y": 5,
+					"name": "downLayerButton",
+					"dragOnTop": false,
+					"id": "dlb10"
+				},
+				"className": "Image"
+			}]
+		}]
+	},
+	{
+		"attrs": {
+			
+		},
+		"className": "Layer",
+		"children": [{
+			"attrs": {
+				"x": 452,
+				"y": 31,
+				"draggable": true
+			},
+			"className": "Group",
+			"children": [{
+				"attrs": {
+					"name": "link",
+					"text": "www.google.com",
+					"fontSize": 14,
+					"fontFamily": "Calibri",
+					"fill": "#00F",
+					"width": 250,
+					"id": "lnk0",
+					"height": "auto"
+				},
+				"className": "Text"
+			},
+			{
+				"attrs": {
+					"x": 238,
+					"y": 5,
+					"name": "removeButton",
+					"dragOnTop": false,
+					"id": "rb20"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 220,
+					"y": 5,
+					"name": "upLayerButton",
+					"dragOnTop": false,
+					"id": "ulb11"
+				},
+				"className": "Image"
+			},
+			{
+				"attrs": {
+					"x": 229,
+					"y": 5,
+					"name": "downLayerButton",
+					"dragOnTop": false,
+					"id": "dlb11"
+				},
+				"className": "Image"
+			}]
+		}]
+	}]
+}

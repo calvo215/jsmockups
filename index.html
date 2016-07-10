@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="UTF-8"> 
+		<title>Mockups like</title>
+		<link href="css/styles.css" rel="stylesheet">
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+	</head>
+	<body onmousedown="return false;">
+		<div class = "container">
+			<div class = "row">
+				<div class="col-lg-1 pull-left">
+					<img src = "img/buttonicon.png" onclick = "addButton()" title="Button">
+					<img src = "img/recticon.png" onclick = "addRect()" title="Rect"/>
+					<img src = "img/roundedrecticon.png" onclick = "addRoundRect()" title="RoundedRect"/>
+					<img src = "img/tittleicon.png" onclick = "addTittle()" title="Tittle"/>
+					<img src = "img/subtittleicon.png" onclick = "addSubTittle()" title="SubTittle"/>
+					<img src = "img/texticon.png" onclick = "addParagraph()" title="Text"/>
+					<img src = "img/linkicon.png" onclick = "addLink()" title="Link"/>
+				</div>
+				<div class="col-lg-1 pull-left">
+				<img src = "img/checkboxicon.png" onclick = "addCheckBox()" title="CheckBox"/>
+					<img src = "img/radiobuttonicon.png" onclick = "addRadioButton()" title="RadioButton"/>
+					<img src = "img/comboboxicon.png" onclick = "addComboBox()" title="ComboBox"/>
+					<img src = "img/textfieldicon.png" onclick = "addTextField()" title="TextField"/>
+					<img src = "img/imageicon.png" onclick = "addImage()" title="Image"/>
+					<img src = "img/horizontalicon.png" onclick = "addHScroll()" title="Horizontal"/>
+					<img src = "img/verticalicon.png" onclick = "addVScroll()" title="Vertical"/>
+				</div>
+				<div class="col-lg-7" id="col-lg-7">
+					<center>
+						<div id = "container"></div>
+						<script src = "js/kinetic-v5.1.0.min.js"></script>
+						<script src = "js/mockups.js"></script>
+					</center>
+				</div>
+				<div class="col-lg-1">
+					<p>Edit info</p>
+					<button type="button" onclick="saveState()">Save state</button>
+					<button type="button" onclick="loadState()">Load state</button>
+					<button type="button" onclick="exportImage()">Export image</button>
+				</div>
+			</div>
+			<div class = "row">
+				<div id="img-out"></div>
+			</div>
+		</div>
+	</body>
+</html>
